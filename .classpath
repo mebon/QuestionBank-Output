@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/mssql-jdbc-7.2.1.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Poi/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Poi/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Poi/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Poi/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Poi/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Poi/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/commons-logging-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/groovy-all-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/itext-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/jasper-compiler-jdt-5.5.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/jasperreports-4.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bekom/Desktop/gerekliler/Jasper Report/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
